@@ -1,0 +1,39 @@
+.banner-one{
+    margin: 0;
+}
+.imgfondo{
+    width: 98.7vw;
+    position: relative;
+}
+.text-and-buttons{
+    position: absolute;
+    color: whitesmoke;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 40%;
+    margin: 4vw 13vh;
+    width: 37vw;
+}
+.title-banner{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+.container-but{
+    display: flex;
+    padding: 1vh 2vw;
+    height: 6vh;
+    clip-path: polygon(64% -340%, 113% -10%, 90% 115%, -89% 586%);
+    background-color: #e62429;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,32 @@
+.banner-bar {
+
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-bar-texts{
+    font-size: 16px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    text-align: left;
+}
+.banner-bar-img {
+    display: flex;
+    width: auto;
+    height: 5.5vh;
+    
+}
+p{
+    width: 12vw;
+}
+.elements{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8vw;
+    margin-right: 8vh;
+    align-items: center;
+}
